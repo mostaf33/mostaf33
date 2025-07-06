@@ -28,17 +28,3 @@
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa33&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa33&layout=compact&theme=tokyonight&langs_count=8&hide_border=false&border_radius=10" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa33&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" width="96%" />
-</p>
-
----
-
-> 🎧 *"Programming is not just code, it’s creativity and vision."*
