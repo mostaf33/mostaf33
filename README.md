@@ -1,67 +1,44 @@
-<div align='center'><h1> أهلاً بيك في صفحة مصطفى ممدوح 🙌</h1></div>
+<div align='center'>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Coding" width="120" />
+  <h1> Welcome to Mustafa Mamdouh's page 🙌</h1>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&multiline=true&width=435&lines=Mostafa+Mamdouh;Web+Developer+%7C+Game+Dev+Trainee)](https://git.io/typing-svg)
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mostafa-linkedin" target="_blank" rel="nofollow">
-    <img alt="Mostafa's LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />
-  </a>
-  <a href="https://www.instagram.com/mostafa.dev" target="_blank" rel="nofollow">
-    <img alt="Mostafa's Instagram" width="22px" src="https://img.icons8.com/color/48/instagram-new--v2.png" />
-  </a>
-</div>
 
 <img src='./Assets/Monkey_Kid_Coding.gif' align='left' width='250'>
 
 ### Hi there 👋
 
-- 🧑‍💻 أنا مصطفى ممدوح، مبرمج ومصمم مواقع ويب.
-- 🔭 أعمل حاليًا على تطوير مهاراتي في **تطوير الألعاب**.
-- 🎯 مهتم بمجالات الـ Front-End وBack-End.
-- 🌱 أتعلم باستمرار أحدث تقنيات الويب وتطوير البرمجيات.
-- 💬 اسألني عن HTML, CSS, JavaScript أو تصميم واجهات المستخدم.
-- 🎮 شغوف بمجال الألعاب وببدأ أولى خطواتي في تطويرها.
-- 📬 تواصل معي على [LinkedIn](https://www.linkedin.com/in/mostafa-linkedin) أو شوف أعمالي على [GitHub](https://github.com/your-username).
+- 🧑‍💻 I'm Mostafa Mamdouh, a programmer and web designer.
+- 🔭 I'm currently developing my skills in **game development**.
+- 🎯 I'm interested in both front-end and back-end.
+- 🌱 I'm constantly learning the latest web and software development technologies.
+- 💬 Ask me about HTML, CSS, JavaScript, or user interface design.
+- 🎮 I'm passionate about gaming and am taking my first steps in game development.
 
 <br />
 
 ## 🛠️ المهارات
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend (تدريب)**: PHP, Node.js
-- **أدوات التصميم**: Figma, Photoshop
-- **نظام التحكم في الإصدارات**: Git, GitHub
-- **منصات**: Netlify, GitHub Pages
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Backend (تدريب)**: PHP, Node.js  
+- **أدوات التصميم**: Figma, Photoshop  
+- **نظام التحكم في الإصدارات**: Git, GitHub  
+- **منصات**: Netlify, GitHub Pages  
 
-<br/>
+---
 
-## 📁 مشاريعي
-
-<details>
-<summary><b>📌 أعمال قمت بها:</b></summary>
-
-| المشروع | التقنيات | الوصف |
-|--------|-----------|--------|
-| [موقع حاسبة](https://github.com/your-username/calculator) | HTML, CSS, JS | حاسبة بسيطة تقوم بالعمليات الحسابية |
-| [صفحة شخصية](https://github.com/your-username/portfolio) | HTML, CSS | صفحة تعريفيه تضم بياناتي ومشاريعي |
-| [مشغل موسيقى](https://github.com/your-username/music-player) | HTML, CSS, JS | تشغيل الأغاني وحفظها باستخدام LocalStorage |
-
-</details>
-
-<br />
-
-## 📊 إحصائياتي على GitHub
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa33&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa33&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa33&theme=tokyonight" width="96%" />
 </p>
 
 ---
 
-> 🎧 *"البرمجة مش بس كود، دي فن وإبداع!"*
-
+> 🎧 *"Programming is not just code, it’s creativity and vision."*
