@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Coding" width="120" />
+  <img src="https://media.tenor.com/hzY5bYzS7isAAAAC/gojo-satoru-gojo.gif" alt="Gojo Satoru" width="100" />
   <h1> Welcome to Mustafa Mamdouh's page 🙌</h1>
 </div>
 
